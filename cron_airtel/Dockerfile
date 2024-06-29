@@ -15,6 +15,8 @@ COPY cron_airtel/ .
 
 # Exposer le port utilisé par l'application (ici, le port 2800)
 EXPOSE 2906
+ENV HOST=0.0.0.0
+ENV PORT=2906
 
 # Commande pour démarrer l'application
-CMD ["python3", "--host", "0.0.0.0", "--port", "2906"]
+CMD ["python", "search_update.py"]
