@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  cron-airtel:
+    container_name: cron-airtel
+    build: 
+      context: .
+      dockerfile: cron_airtel/Dockerfile
+    ports:
+      - "2802:2802"
+
