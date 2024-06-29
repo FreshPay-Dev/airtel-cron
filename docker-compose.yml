@@ -7,5 +7,5 @@ services:
       context: .
       dockerfile: cron_airtel/Dockerfile
     ports:
-      - "2802:2802"
+      - "2906:2906"
 

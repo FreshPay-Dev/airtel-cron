@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY cron_airtel/ .
 
 # Exposer le port utilisé par l'application (ici, le port 2800)
-EXPOSE 2802
+EXPOSE 2906
 
 # Commande pour démarrer l'application
-CMD ["uvicorn", "support:app", "--host", "0.0.0.0", "--port", "2802"]
+CMD ["python3", "--host", "0.0.0.0", "--port", "2906"]
