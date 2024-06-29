@@ -1,0 +1,6 @@
+{'action': 'credit', 'paydrc_reference': 'PD52JCK11OPL29pjtyh21G1W', 'status': 'Successful', 'switch_reference': 'FP03bO213911x29', 'telco_reference': 'MP211130.0057.D62425', 'telco_status_description': 'Success'}
+{'action': 'credit', 'paydrc_reference': 'PDCyAod11GML29wKKJ321pYH', 'status': 'Failed', 'switch_reference': 'FP038z21hs11Q29', 'telco_reference': 'null', 'telco_status_description': 'Transaction id is invalid'}
+{'action': 'credit', 'paydrc_reference': 'PDnSKM211ud02987Kc721Yqs', 'status': 'Failed', 'switch_reference': 'FP03NS21wv11y29', 'telco_reference': 'null', 'telco_status_description': 'Transaction id is invalid'}
+{'action': 'credit', 'paydrc_reference': 'PDxOLSs11dWn29PN9Se21ycu', 'status': 'Failed', 'switch_reference': 'FP03Dj21xZ11t29', 'telco_reference': 'null', 'telco_status_description': 'Transaction id is invalid'}
+{'action': 'credit', 'paydrc_reference': 'PD2dDCC11PgM29vlBUV210BK', 'status': 'Failed', 'switch_reference': 'FP03ZL21ni11T29', 'telco_reference': 'null', 'telco_status_description': 'Transaction id is invalid'}
+{'action': 'credit', 'paydrc_reference': 'PDYWZ9312Pql01OdCoi219dN', 'status': 'Failed', 'switch_reference': 'FP03Is21TG12B01', 'telco_reference': 'null', 'telco_status_description': 'Transaction id is invalid'}
